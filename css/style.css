@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.logo img{
+    width: 50%;
+    height: 80%;
+
+}
+
+.navbar{
+    display: flex;
+}
+.nav-list{
+    width: 50%;
+    display: flex;
+    text-align: left;
+
+}
+
+.nav-list li{
+    width: 20%;
+    ;
+    
+}
+
+.nav-list li a{
+    color: rgb(58, 201, 201);
+    
+}
+.rightnav{
+    text-align: right;
+    width: 50%;
+}
+
+.background{
+    background:rgba(0, 0, 0, 0.7);
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.firstsection{
+    height: 100;
+}
+
+.mainbox{
+    color: wheat;
+}
